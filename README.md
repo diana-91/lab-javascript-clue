@@ -40,7 +40,7 @@ In order to do this, you will need to know the game's characters (possible kille
 ### Game Characters
 
 This Clue board game has a new roster of playable characters. All of them  have first names, last names, occupations, age, and descriptions. Here you will find a list of some of their attributes. :satisfied:
-
+Patio
 - **Jacob Green:** his color is *green*. He has a lot of connections and is always willing to help people out -- for a price.
 
 - **Doctor Orchid:** her color is *white*. She is the adopted daugther of Mr. Boddy, a biologist with a PhD in plant toxicology. She was privately educated in Switzerland until her expulsion after an incident involving daffodils resulted in a near-fatal poisoning *[(Wonder what happened with Mrs. White?)](http://www.telegraph.co.uk/news/2016/07/05/cluedo-kills-off-mrs-white-and-replaces-her-with-new-female-char/)*.
