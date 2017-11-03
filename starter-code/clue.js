@@ -195,77 +195,77 @@ var pistol ={
 /* Rooms */
 var dinningRoom = {
     size: 30,
-    description: '',
+    description: 'Room for consuming food.',
     color:'maroon'
 };
 var conservatory = {
     size: 50,
-    description: '',
+    description: 'Is a building or room having glass or tarpaulin roofing and walls used as a greenhouse or a sunroom. ',
     color:'white'
 };
 var kitchen = {
     size: 20,
-    description: '',
+    description: 'Is a room used for cooking and food preparation in a dwelling ',
     color:'green'
 };
 var study = {
     size: 30,
-    description: '',
+    description: 'It is a room designed for study.',
     color:'brown'
 };
 var library = {
     size: 60,
-    description: '',
+    description: 'Room where the books are kept',
     color:'brown'
 };
 var billiardRoom = {
     size: 25,
-    description: '',
+    description: 'Room to spend time',
     color:'red'
 };
 var lounge = {
     size: 80,
-    description: '',
+    description: 'Room to rest watching TV',
     color:'blue'
 };
 var ballroom = {
     size: 100,
-    description: '',
+    description: 'Room for dancing',
     color:'mirror'
 };
 var hall = {
     size: 10,
-    description: '',
+    description: 'A long hallway',
     color:'beige'
 };
 var spa = {
     size: 100,
-    description: '',
+    description: 'Room to relax and unwind',
     color:'lightBlue'
 };
 var livingRoom = {
     size: 20,
-    description: '',
+    description: 'Room in a house for general and informal everyday use.',
     color:'green'
 };
 var observatory = {
     size: 60,
-    description: '',
+    description: 'room or building housing an astronomical telescope or other scientific equipment for the study of natural phenomena.',
     color:'white'
 };
 var theater = {
     size: 100,
-    description: '',
+    description: 'a building or outdoor area in which plays and other dramatic performances are given',
     color:'red'
 };
 var guestHouse = {
     size: 200,
-    description: '',
+    description: 'guest House',
     color:'white'
 };
 var patio = {
     size: 250,
-    description: '',
+    description: 'a paved outdoor area adjoining a house.',
     color:'grey'
 };
 
